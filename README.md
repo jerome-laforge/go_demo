@@ -1,4 +1,4 @@
-g_demo
+go_demo
 ======
 
 go demo examples
